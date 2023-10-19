@@ -1,6 +1,6 @@
 # RenderScript Intrinsics Replacement Toolkit - v0.8 BETA
 ```
-    implementation 'com.github.shixingxing:renderscript-intrinsics-replacement-toolkit:1.0.0'
+implementation 'com.github.shixingxing:renderscript-intrinsics-replacement-toolkit:1.0.0'
 ```
 
 This Toolkit provides a collection of high-performance image manipulation functions
