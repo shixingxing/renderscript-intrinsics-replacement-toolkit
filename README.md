@@ -1,4 +1,7 @@
 # RenderScript Intrinsics Replacement Toolkit - v0.8 BETA
+'''
+    implementation 'com.github.shixingxing:renderscript-intrinsics-replacement-toolkit:1.0.0'
+'''
 
 This Toolkit provides a collection of high-performance image manipulation functions
 like blur, blend, and resize. It can be used as a stand-alone replacement for most
